@@ -8,7 +8,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/spf13/cobra v1.2.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	google.golang.org/api v0.61.0
 	gopkg.in/yaml.v2 v2.4.0
